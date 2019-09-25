@@ -1,4 +1,4 @@
-# Image cutter by points
+# Image and video cutter by points
 
 ### Dependences:
 - **numpy** and **OpenCV**
