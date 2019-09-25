@@ -20,6 +20,11 @@ With the image open you can press **`s`** and a new tab will be opened for you t
 To quit the application simply press **`q`** any time.  
 
 ### Examples:
+- Original Image:  
 ![](./examples/1.png)  
+
+- Image with the selected points:  
 ![](./examples/2.png)  
+
+- Cropped image:  
 ![](./examples/3.png)  
