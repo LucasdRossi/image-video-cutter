@@ -4,7 +4,7 @@
 - **numpy** and **OpenCV**
 
 ### Getting started:
-First you will need to install de dependences with [pip](https://pypi.org/project/pip/)
+First you will need to install de dependences with [pip](https://pypi.org/project/pip/)  
 `$ pip install numpy && pip install opencv-python`
 
 There are  three ways to start the application:  
