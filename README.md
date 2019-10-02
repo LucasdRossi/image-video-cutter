@@ -28,3 +28,4 @@ To quit the application simply press **`q`** any time.
 
 - Cropped image:  
 ![](./examples/3.png)  
+  
